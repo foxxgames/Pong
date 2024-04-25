@@ -1,5 +1,5 @@
 # Pong
-A simple pong clone.
+A simple Pong clone.
 Make sure to unzip the DLL file and place the .dll files in the same directory as the .exe.
 The source code is in the source folder.
 To build Pong yourself you need the SDL libray which is found here https://github.com/libsdl-org.
